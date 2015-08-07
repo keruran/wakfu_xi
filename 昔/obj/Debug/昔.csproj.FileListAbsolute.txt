@@ -1,0 +1,26 @@
+c:\users\krran\documents\visual studio 2013\Projects\昔\昔\bin\Debug\昔.exe.config
+C:\Users\krran\Documents\Visual Studio 2013\Projects\昔\昔\bin\Debug\昔.exe
+C:\Users\krran\Documents\Visual Studio 2013\Projects\昔\昔\bin\Debug\昔.pdb
+C:\Users\krran\Documents\Visual Studio 2013\Projects\昔\昔\obj\Debug\昔.csprojResolveAssemblyReference.cache
+C:\Users\krran\Documents\Visual Studio 2013\Projects\昔\昔\obj\Debug\昔.Form1.resources
+C:\Users\krran\Documents\Visual Studio 2013\Projects\昔\昔\obj\Debug\昔.Properties.Resources.resources
+C:\Users\krran\Documents\Visual Studio 2013\Projects\昔\昔\obj\Debug\昔.csproj.GenerateResource.Cache
+C:\Users\krran\Documents\Visual Studio 2013\Projects\昔\昔\obj\Debug\昔.exe
+C:\Users\krran\Documents\Visual Studio 2013\Projects\昔\昔\obj\Debug\昔.pdb
+C:\Users\krran\Documents\Visual Studio 2013\Projects\昔\昔\bin\Debug\昔.exe.manifest
+C:\Users\krran\Documents\Visual Studio 2013\Projects\昔\昔\bin\Debug\昔.application
+C:\Users\krran\Documents\Visual Studio 2013\Projects\昔\昔\obj\Debug\昔.exe.manifest
+C:\Users\krran\Documents\Visual Studio 2013\Projects\昔\昔\obj\Debug\昔.application
+C:\Users\rr\Desktop\昔\昔\bin\Debug\昔.exe.config
+C:\Users\rr\Desktop\昔\昔\obj\Debug\昔.exe
+C:\Users\rr\Desktop\昔\昔\obj\Debug\昔.pdb
+C:\Users\rr\Desktop\昔\昔\obj\Debug\昔.csprojResolveAssemblyReference.cache
+C:\Users\rr\Desktop\昔\昔\obj\Debug\昔.Form1.resources
+C:\Users\rr\Desktop\昔\昔\obj\Debug\昔.Properties.Resources.resources
+C:\Users\rr\Desktop\昔\昔\obj\Debug\昔.csproj.GenerateResource.Cache
+C:\Users\rr\Desktop\昔\昔\bin\Debug\昔.exe.manifest
+C:\Users\rr\Desktop\昔\昔\bin\Debug\昔.application
+C:\Users\rr\Desktop\昔\昔\bin\Debug\昔.exe
+C:\Users\rr\Desktop\昔\昔\bin\Debug\昔.pdb
+C:\Users\rr\Desktop\昔\昔\obj\Debug\昔.exe.manifest
+C:\Users\rr\Desktop\昔\昔\obj\Debug\昔.application
