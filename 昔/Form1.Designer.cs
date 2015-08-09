@@ -317,7 +317,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(33, 14);
             this.label1.TabIndex = 8;
-            this.label1.Text = "1.1.0.7";
+            this.label1.Text = "1.1.0.8";
             // 
             // Form1
             // 

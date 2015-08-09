@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="昔.exe" version="1.1.0.7" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="昔.exe" version="1.1.0.8" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="昔" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -49,7 +49,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>ebTCpVadE0pOgYhcvH91K6dU6b0=</dsig:DigestValue>
+        <dsig:DigestValue>7JHGcaGsL6IY99X7KSHdikSPlr4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -215,13 +215,13 @@
       <dsig:DigestValue>iiimkM6rqE6tFBJRKm0irhtQVbw=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Resources\19.png" size="2218">
+  <file name="Resources\19.png" size="2725">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>Pr9tvQusKFVS2mIRdlpFj2JRppg=</dsig:DigestValue>
+      <dsig:DigestValue>LbfgblgCVseLURcGmfmKSQ0+IB0=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Resources\20.png" size="2122">
@@ -251,13 +251,13 @@
       <dsig:DigestValue>z4so2gBXFlC4Zs/ITUJavk2dM/M=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Resources\23.png" size="2180">
+  <file name="Resources\23.png" size="2693">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>ufp9BITKjZik8ZuIzXI6XdXYvO0=</dsig:DigestValue>
+      <dsig:DigestValue>Yphb2zw25fbm5za96n4ywl8Fzw8=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Resources\24.png" size="2089">
