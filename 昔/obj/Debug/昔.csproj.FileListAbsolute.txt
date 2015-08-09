@@ -24,3 +24,16 @@ C:\Users\rr\Desktop\昔\昔\bin\Debug\昔.exe
 C:\Users\rr\Desktop\昔\昔\bin\Debug\昔.pdb
 C:\Users\rr\Desktop\昔\昔\obj\Debug\昔.exe.manifest
 C:\Users\rr\Desktop\昔\昔\obj\Debug\昔.application
+C:\Users\rr\Documents\GitHub\wakfu_xi\昔\bin\Debug\昔.exe.config
+C:\Users\rr\Documents\GitHub\wakfu_xi\昔\obj\Debug\昔.exe
+C:\Users\rr\Documents\GitHub\wakfu_xi\昔\obj\Debug\昔.pdb
+C:\Users\rr\Documents\GitHub\wakfu_xi\昔\bin\Debug\昔.exe.manifest
+C:\Users\rr\Documents\GitHub\wakfu_xi\昔\bin\Debug\昔.application
+C:\Users\rr\Documents\GitHub\wakfu_xi\昔\bin\Debug\昔.exe
+C:\Users\rr\Documents\GitHub\wakfu_xi\昔\bin\Debug\昔.pdb
+C:\Users\rr\Documents\GitHub\wakfu_xi\昔\obj\Debug\昔.csprojResolveAssemblyReference.cache
+C:\Users\rr\Documents\GitHub\wakfu_xi\昔\obj\Debug\昔.Form1.resources
+C:\Users\rr\Documents\GitHub\wakfu_xi\昔\obj\Debug\昔.Properties.Resources.resources
+C:\Users\rr\Documents\GitHub\wakfu_xi\昔\obj\Debug\昔.csproj.GenerateResource.Cache
+C:\Users\rr\Documents\GitHub\wakfu_xi\昔\obj\Debug\昔.exe.manifest
+C:\Users\rr\Documents\GitHub\wakfu_xi\昔\obj\Debug\昔.application
